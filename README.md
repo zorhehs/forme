@@ -78,12 +78,3 @@ The editor supports section-level placement, not arbitrary element positioning. 
 - MongoDB: adapter implemented; driver/database setup and integration test pending.
 
 See `PROJECT_PLAN.md` for milestones and semester extensions.
-
-## Project report and presentation
-
-- [IEEE-style report (PDF)](docs/report/Forme_IEEE_Report.pdf)
-- [Editable report (Word)](docs/report/Forme_IEEE_Report.docx)
-- [Report source (Markdown)](docs/report/report.md)
-- [Presentation slides (PowerPoint)](docs/slides/Forme_Presentation.pptx)
-
-The report documents the actual prototype and its evaluation limits. The presentation includes speaker notes and a suggested demonstration sequence. GitHub Actions runs the tests and production build on pushes to main and on pull requests.
